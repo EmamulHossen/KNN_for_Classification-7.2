@@ -11,7 +11,7 @@
 # Tech Used
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### You can add How to Setup:
+### **The Process of KNN Model**:
 - Step 1: **Select the number K of the neighbors**<br/>
 - Step 2:**Calculate the Euclidean distance of K number of neighbors**<br/>
 - step-3:**Take the K nearest neighbors as per the calculated Euclidean distance**<br/>
